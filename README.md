@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @POGnator
+# 👋 Hi, I’m POGnator
 - :austria: Austrian Sophomore Year student (10th Grade)
 - 👀 I’m interested in low-level programming and Linux
 - 🌱 I’m currently learning more about Linux (to be exact, Arch), C/C++
