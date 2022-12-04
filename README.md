@@ -8,3 +8,10 @@
 - Check out my [best project](https://github.com/POGnator/yaOS) yet!
 
 > Most of my repositories are random projects and nothing too ambitious.
+
+# Bucket list
+
+- [ ] Get a pull request merged at [torvalds/linux](github.com/torvalds/linux)
+- [ ] Create a programming language and matching compiler
+- [x] Make an OS
+- [ ] Write a good pre-scientific paper :D 
