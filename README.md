@@ -1,3 +1,5 @@
-# 👋 Hi, I’m Gabriel
+# 👋 Hi, I'm Gabriel
 
-This readme is under construction
+I love C, operating systems and Splatoon.
+
+Discord: `@pognator`
